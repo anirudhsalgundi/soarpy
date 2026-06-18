@@ -1,1 +1,13 @@
 *.fits
+*egg-info
+*.egg
+.pytest_cache
+__pycache__
+.ipynb_checkpoints
+*.log
+*.csv
+logs/
+data
+.venv
+uv.lock
+.python-version
